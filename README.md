@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHJ8RbHOUDPcg/profile-displaybackgroundimage-shrink_200_800/0/1673041148190?e=2147483647&v=beta&t=Y5m-Wf4xMdXBzJguC0hvlRdGOQUWkxypKVkEQTf89y0)
+[![MasterHead]([https://media.licdn.com/dms/image/D4D16AQHJ8RbHOUDPcg/profile-displaybackgroundimage-shrink_200_800/0/1673041148190?e=2147483647&v=beta&t=Y5m-Wf4xMdXBzJguC0hvlRdGOQUWkxypKVkEQTf89y0](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg))
 <h1 align="center">Hi 👋, I'm Yusuf Semih Sancar</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
