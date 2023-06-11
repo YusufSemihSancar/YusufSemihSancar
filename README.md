@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_200_800/0/1674153278110?e=2147483647&v=beta&t=5-l8A4MJOMUK6Mo1zWR_5P7SpRz_vqCyJ0hly6uLXS8)
+![MasterHead]([https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_200_800/0/1674153278110?e=2147483647&v=beta&t=5-l8A4MJOMUK6Mo1zWR_5P7SpRz_vqCyJ0hly6uLXS8](https://media.licdn.com/dms/image/D4D16AQHJ8RbHOUDPcg/profile-displaybackgroundimage-shrink_200_800/0/1673041148190?e=2147483647&v=beta&t=Y5m-Wf4xMdXBzJguC0hvlRdGOQUWkxypKVkEQTf89y0))
 <h1 align="center">Hi 👋, I'm Yusuf Semih Sancar</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
