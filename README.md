@@ -1,4 +1,4 @@
-<h1">Hi 👋, I'm Yusuf Semih Sancar</h1>
+<h1>Hi 👋, I'm Yusuf Semih Sancar</h1>
 <h3>A passionate Student from Turkey</h3>
 
 
