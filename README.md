@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Yusuf Semih Sancar</h1>
+<h1 align="center">Hi 👋, I'm Yusuf Semih Sancar</h1>
 
 
 - 🔭 I’m currently working on **HTML,CSS,JavaScript**
