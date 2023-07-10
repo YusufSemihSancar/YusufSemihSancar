@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yusuf Semih Sancar</h1>
-<h3 align="center">A passionate Student from Turkey</h3>
+<h1">Hi 👋, I'm Yusuf Semih Sancar</h1>
+<h3>A passionate Student from Turkey</h3>
 
 
 - 🔭 I’m currently working on **HTML,CSS,JavaScript**
